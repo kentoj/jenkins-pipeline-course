@@ -7,20 +7,21 @@ Purpose
 Simple Build
 Simple Deployment
 
-Simple Integration test grid with containers
-Advanced build - multiproject
-Build a branch on push
-  run tests on branch
-Show how to configure test results for 
-  JUnit, 
-  NUnit, 
-  Jasmine, 
-  Mocha, 
-  Karma, 
-  Python tests, 
-  Ruby
-Show rejected builds
-Show build steps
-  making docker images
-  push image to registry
-  run image
+- Simple Integration test grid with containers
+- Advanced build - multiproject
+- Build a branch on push
+  - run tests on branch
+- Show how to configure test results for 
+  - JUnit, 
+  - NUnit, 
+  - Jasmine, 
+  - Mocha, 
+  - Karma, 
+  - Python tests, 
+  - Ruby
+- Show rejected builds
+- Show build steps
+  - making docker images
+  - push image to registry
+  - run image
+- Show pushing binary artifact to artifact repository (like Nexus or Artifactory)
