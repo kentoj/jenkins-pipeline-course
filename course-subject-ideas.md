@@ -7,3 +7,5 @@
 - How to copy artifacts from another project.
 - How to send files over SSH.
 - How to execute scripts over SSH
+- Jenkinsfile DLS Groovy (and Kotlin?)
+- Integrations (pushing artifacts to S3)
